@@ -19,6 +19,8 @@ Developed entirely by myself, my sole intention was to play this mod on a higher
 2. Requires **Minecraft 1.20.1** and **Forge 47.4.10+**.
 3. Place the `.jar` file into the game's `mods` folder and launch the game.
 *(Note: The current version has removed armor, etc.)*
+
+## Weapon Stats
 | Weapon Name | Damage | Durability |
 | :---: | :---: | :---: |
 | AnnealBlade | 12 | 1450 |
@@ -51,12 +53,15 @@ Developed entirely by myself, my sole intention was to play this mod on a higher
 | TyrantDragon | 13 | 2200 |
 | WindFleuret | 10 | 1450 |
 | Yoru | 13 | 1450 |
+
+## Ore Stats
 | Ore Name | Hardness | Blast Resistance |
 | :---: | :---: | :---: |
 | Dark Iron Ore | 2.5 | 1.0 |
 | Explosive Ore | 2.0 | 0.0 |
 | Titanium Ore | 2.5 | 1.5 |
 | Crystal Ore | 2.5 | 1.5 |
+
 needs_iron_tool
 <img width="1535" height="883" alt="屏幕截图 2026-11-24 203342" src="https://github.com/user-attachments/assets/c2b54189-7118-430e-abe5-30e605514391" />
 
