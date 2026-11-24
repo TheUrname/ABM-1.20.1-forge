@@ -1,6 +1,7 @@
 <img width="1535" height="883" alt="image" src="https://github.com/user-attachments/assets/25261c6b-c161-48ae-91fe-1e6e1db7eb7e" /># ABM-1.20.1-forge
 A port of the classic ABM (Armor Blades and More) mod to Minecraft 1.20.1 Forge.
-This is an unofficial 1.20.1 port of the classic 1.7.10 mod "Anime Battle Mod" (Author: Alex). 
+This is an unofficial 1.20.1 port of the classic 1.7.10 mod "Anime Battle Mod" (Author: Alex). This mod is adapted from *Sword Art Online*.
+
 
 Developed entirely by myself, my sole intention was to play this mod on a higher version of Minecraft, but I couldn't find any existing ports, so I decided to develop it myself. Based on my understanding, the version I used to play was likely an unfinished version. Due to major changes in Minecraft's underlying architecture, there are many things I cannot accomplish with my current technical skills. I kindly ask for the understanding and patience of all the handsome guys and beautiful girls who play this mod.
 
